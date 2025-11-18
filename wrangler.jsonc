@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "bswanhoick",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "bswanhoick",
+      "database_id": "d4f829f3-891b-4efc-9359-3a01034fc477"
+    }
+  ]
+}
